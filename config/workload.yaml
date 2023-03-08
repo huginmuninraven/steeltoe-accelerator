@@ -17,6 +17,6 @@ spec:
       autoscaling.knative.dev/minScale: "1"
   source:
     git:
-      url: https://github.com/huginmuninraven/steeltoe-accelerator.git
+      url: https://github.com/huginmuninraven/steeltoe-accelerator
       ref:
         branch: main
