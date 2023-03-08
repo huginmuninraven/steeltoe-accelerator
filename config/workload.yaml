@@ -10,7 +10,7 @@ metadata:
     tanzu.app.live.view.application.name: weatherforecast-steeltoe
     apps.tanzu.vmware.com/use-scanner: trivy
     apps.tanzu.vmware.com/has-tests: "true"
-    foo1: "bar2"
+    foo1: "bar3"
 spec:
   params:
   - name: annotations
